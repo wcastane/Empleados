@@ -1,0 +1,10 @@
+c:\users\wcastane\documents\visual studio 2013\Projects\Empleados\Empleados\bin\Debug\Empleados.exe.config
+c:\users\wcastane\documents\visual studio 2013\Projects\Empleados\Empleados\bin\Debug\Empleados.exe
+c:\users\wcastane\documents\visual studio 2013\Projects\Empleados\Empleados\bin\Debug\Empleados.pdb
+c:\users\wcastane\documents\visual studio 2013\Projects\Empleados\Empleados\bin\Debug\EntityFramework.dll
+c:\users\wcastane\documents\visual studio 2013\Projects\Empleados\Empleados\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\wcastane\documents\visual studio 2013\Projects\Empleados\Empleados\bin\Debug\EntityFramework.xml
+c:\users\wcastane\documents\visual studio 2013\Projects\Empleados\Empleados\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\wcastane\documents\visual studio 2013\Projects\Empleados\Empleados\obj\Debug\Empleados.csprojResolveAssemblyReference.cache
+c:\users\wcastane\documents\visual studio 2013\Projects\Empleados\Empleados\obj\Debug\Empleados.exe
+c:\users\wcastane\documents\visual studio 2013\Projects\Empleados\Empleados\obj\Debug\Empleados.pdb
